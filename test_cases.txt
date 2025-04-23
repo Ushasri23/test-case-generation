@@ -1,0 +1,668 @@
+ TC\_001: Verify that the Alphaura E-commerce website allows users to create an account.
+Description: This test case verifies that users can create an account on the Alphaura E-commerce website.
+Steps:
+1. Open the Alphaura E-commerce website.
+2. Click on the "Sign Up" button.
+3. Enter a valid email address and password.
+4. Click on the "Create Account" button.
+5. Verify that the account is created successfully.
+Expected Result: The user should be able to create an account on the Alphaura E-commerce website.
+
+TC\_002: Verify that the Alphaura E-commerce website allows users to log in.
+Description: This test case verifies that users can log in to their accounts on the Alphaura E-commerce website.
+Steps:
+1. Open the Alphaura E-commerce website.
+2. Click on the "Log In" button.
+3. Enter a valid email address and password.
+4. Click on the "Log In" button.
+5. Verify that the user is logged in successfully.
+Expected Result: The user should be able to log in to their account on the Alphaura E-commerce website.
+
+TC\_003: Verify that the Alphaura E-commerce website allows users to add products to their cart.
+Description: This test case verifies that users can add products to their cart on the Alphaura E-commerce website.
+Steps:
+1. Open the Alphaura E-commerce website.
+2. Browse through the product catalog and select a product to add to the cart.
+3. Click on the "Add to Cart" button.
+4. Verify that the product is added to the cart successfully.
+Expected Result: The user should be able to add products to their cart on the Alphaura E-commerce website.
+
+TC\_004: Verify that the Alphaura E-commerce website allows users to remove products from their cart.
+Description: This test case verifies that users can remove products from their cart on the Alphaura E-commerce website.
+Steps:
+1. Open the Alphaura E-commerce website.
+2. Browse through the product catalog and select a product to add to the cart.
+3. Click on the "Add to Cart" button.
+4. Verify that the product is added to the cart successfully.
+5. Click on the "Remove from Cart" button.
+6. Verify that the product is removed from the cart successfully.
+Expected Result: The user should be able to remove products from their cart on the Alphaura E-commerce website.
+
+TC\_005: Verify that the Alphaura E-commerce website allows users to view their cart.
+Description: This test case verifies that users can view their cart on the Alphaura E-commerce website.
+Steps:
+1. Open the Alphaura E-commerce website.
+2. Browse through the product catalog and select a product to add to the cart.
+3. Click on the "Add to Cart" button.
+4. Verify that the product is added to the cart successfully.
+5. Click on the "View Cart" button.
+6. Verify that the user can view their cart.
+Expected Result: The user should be able to view their cart on the Alphaura E-commerce website.
+
+TC\_006: Verify that the Alphaura E-commerce website allows users to update their cart.
+Description: This test case verifies that users can update their cart on the Alphaura E-commerce website.
+Steps:
+1. Open the Alphaura E-commerce website.
+2. Browse through the product catalog and select a product to add to
+ Test Case ID: TC\_001
+Description: Verify that the system can handle positive inputs for the Financial Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Financial Feasibility section.
+3. Enter valid inputs for the financial feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should process the valid inputs and provide a positive response indicating that the financial feasibility analysis is successful.
+
+Test Case ID: TC\_002
+Description: Verify that the system can handle negative inputs for the Financial Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Financial Feasibility section.
+3. Enter invalid inputs for the financial feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should display an error message indicating that the inputs are invalid and cannot be processed.
+
+Test Case ID: TC\_003
+Description: Verify that the system can handle boundary value inputs for the Financial Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Financial Feasibility section.
+3. Enter minimum or maximum values for the financial feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should process the boundary value inputs and provide a response indicating that the financial feasibility analysis is successful.
+
+Test Case ID: TC\_004
+Description: Verify that the system can handle edge case inputs for the Financial Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Financial Feasibility section.
+3. Enter unusual or unexpected inputs for the financial feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should display an error message indicating that the inputs are unexpected and cannot be processed.
+
+Test Case ID: TC\_005
+Description: Verify that the system can handle positive inputs for the Operational Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Operational Feasibility section.
+3. Enter valid inputs for the operational feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should process the valid inputs and provide a positive response indicating that the operational feasibility analysis is successful.
+
+Test Case ID: TC\_006
+Description: Verify that the system can handle negative inputs for the Operational Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Operational Feasibility section.
+3. Enter invalid inputs for the operational feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should display an error message indicating that the inputs are invalid and cannot be processed.
+
+Test Case ID: TC\_007
+Description: Verify that the system can handle boundary value inputs for the Operational Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Operational Feasibility section.
+3. Enter minimum or maximum values for the operational feasibility analysis.
+4. Click on the submit button.
+Expected Result: The system should process the boundary value inputs and provide a response indicating that the operational feasibility analysis is successful.
+
+Test Case ID: TC\_008
+Description: Verify that the system can handle edge case inputs for the Operational Feasibility section.
+Steps:
+
+1. Open the system.
+2. Navigate to the Operational Feasibility section.
+3. Enter unusual or unexpected inputs for the operational feas
+ TC\_001: Verify that the BRD document is complete and all required sections are present.
+
+Description: This test case will ensure that the BRD document contains all necessary sections, such as ER diagram, relational schema, use case diagram, class diagram, sequence diagram, and an overview of the requirements.
+
+Steps:
+
+1. Open the BRD document.
+2. Check if all required sections are present (ER diagram, relational schema, use case diagram, class diagram, sequence diagram, and an overview of the requirements).
+3. If any section is missing, report the issue and provide a suggested solution.
+
+Expected Result: The BRD document should contain all required sections, ensuring a comprehensive understanding of the project requirements.
+ TC\_001: Verify that the website has a sleek and minimalist interface design.
+Description: This test case verifies that the website has a simple and elegant design that prioritizes simplicity and ease of use.
+Steps:
+
+1. Open the website in a web browser.
+2. Observe the layout and design of the website.
+3. Check if the website has a minimalist design with intuitive navigation.
+4. Verify if the website's design prioritizes simplicity and elegance.
+Expected Result: The website should have a sleek and minimalist interface design with intuitive navigation and a focus on simplicity and elegance.
+
+TC\_002: Verify that the website has a modern and dynamic interface design.
+Description: This test case verifies that the website has a modern and engaging interface design that reflects the brand's ethos of innovation and athleticism.
+Steps:
+
+1. Open the website in a web browser.
+2. Observe the layout and design of the website.
+3. Check if the website has a modern and dynamic design with vibrant visuals and engaging multimedia content.
+4. Verify if the website's design resonates with its target audience of sports enthusiasts and fashion-forward individuals.
+Expected Result: The website should have a modern and dynamic interface design with vibrant visuals, engaging multimedia content, and a focus on innovation and athleticism.
+
+TC\_003: Verify that the website has a bold and edgy interface design.
+Description: This test case verifies that the website has a bold and edgy interface design that reflects the brand's identity as a leading provider of gaming and entertainment products.
+Steps:
+
+1. Open the website in a web browser.
+2. Observe the layout and design of the website.
+3. Check if the website has a dark color scheme, striking visuals, and thematic elements that appeal to gamers and tech enthusiasts.
+4. Verify if the website's design maintains a user-friendly layout and intuitive navigation, ensuring a seamless browsing experience for visitors.
+Expected Result: The website should have a bold and edgy interface design with a dark color scheme, striking visuals, and thematic elements that appeal to gamers and tech enthusiasts, while maintaining a user-friendly layout and intuitive navigation.
+
+TC\_004: Verify that the website has a comprehensive range of functionalities.
+Description: This test case verifies that the website offers a comprehensive range of functionalities, including product browsing, filtering, and search options, as well as account management features and secure payment gateways.
+Steps:
+
+1. Open the website in a web browser.
+2. Browse the website and test all functionalities, including product browsing, filtering, and search options, account management features, and secure payment gateways.
+3. Verify if all functionalities are working as expected.
+Expected Result: The website should offer a comprehensive range of functionalities, including product browsing, filtering, and search options, account management features, and secure payment gateways.
+
+TC\_005: Verify that the website has advanced product customization tools.
+Description: This test case verifies that the website offers advanced product customization tools, such as size guides and interactive product showcases.
+Steps:
+
+1. Open the website in a web browser.
+2. Browse the website and test all product customization tools, including size guides and interactive product showcases.
+3. Verify if all customization tools are working as expected.
+Expected Result: The website should offer advanced product customization tools, such as size guides and interactive product showcases.
+
+TC\_0
+ Here are the test cases for the Business Requirements Document (BRD):
+
+1. stockroom.lk:
+* TC\_001: Verify that the website has a diverse range of products across categories such as fashion, electronics, home goods, and more.
+	+ Description: This test case verifies that the website has a wide range of products to cater to different user needs.
+	+ Steps:
+		- Go to the website and navigate to the homepage.
+		- Click on the "Shop Now" button.
+		- Browse through the different categories available on the website.
+		- Verify that there are products available in each category.
+	+ Expected Result: The website should have a diverse range of products across categories.
+2. stockroom.lk:
+* TC\_002: Verify that the website features a clean and intuitive interface, with easy navigation and search functionalities for users to find products effortlessly.
+	+ Description: This test case verifies that the website has an easy-to-use interface for users to navigate and find products.
+	+ Steps:
+		- Go to the website and navigate to the homepage.
+		- Verify that the website has a clean and intuitive interface.
+		- Use the search bar to search for a specific product.
+		- Verify that the search results are relevant and easy to understand.
+	+ Expected Result: The website should have a clean and intuitive interface with easy navigation and search functionalities.
+3. stockroom.lk:
+* TC\_003: Verify that the website offers secure payment gateways for safe and convenient transactions, including credit/debit cards, online banking, and cash on delivery.
+	+ Description: This test case verifies that the website offers secure payment options for users to make transactions safely.
+	+ Steps:
+		- Go to the website and navigate to the "Payment" section.
+		- Verify that the website offers secure payment gateways, including credit/debit cards, online banking, and cash on delivery.
+		- Make a test transaction using one of the payment options.
+		- Verify that the transaction was successful and that the payment details were secure.
+	+ Expected Result: The website should offer secure payment gateways for safe and convenient transactions.
+4. stockroom.lk:
+* TC\_004: Verify that users can create accounts to manage their orders, track shipments, and access exclusive deals and promotions.
+	+ Description: This test case verifies that users can create accounts to manage their orders and access exclusive deals and promotions.
+	+ Steps:
+		- Go to the website and navigate to the "Account" section.
+		- Click on the "Create Account" button.
+		- Fill in the required information to create an account.
+		- Verify that the account was created successfully.
+		- Log in to the account.
+		- Make a test purchase.
+		- Verify that the order was created and that the user can track the shipment.
+		- Verify that the user can access exclusive deals and promotions.
+	+ Expected Result: Users should be able to create accounts to manage their orders, track shipments, and access exclusive deals and promotions.
+5. stockroom.lk:
+* TC\_005: Verify that the website incorporates customer reviews and ratings to help shoppers make informed purchasing decisions and build trust in the platform.
+	+ Description: This test case verifies that the website incorporates customer reviews and ratings to help shoppers make informed purchasing decisions.
+ TC\_001: Verify that the community forums on Incarnage.com are accessible and functional.
+Description: Verify that users can access the community forums on Incarnage.com and participate in discussions.
+Steps:
+
+1. Open Incarnage.com.
+2. Click on the "Community" tab in the top navigation menu.
+3. Verify that the community forums page is displayed.
+4. Click on a forum category to view the forum discussions.
+5. Verify that users can create and reply to forum posts.
+6. Verify that users can view and like forum posts.
+
+Expected Result: The community forums on Incarnage.com are accessible and functional, allowing users to participate in discussions and interact with other users.
+
+TC\_002: Verify that the live chat support on Incarnage.com is available and functional.
+Description: Verify that users can access the live chat support on Incarnage.com and receive assistance with their orders, product inquiries, or technical issues.
+Steps:
+
+1. Open Incarnage.com.
+2. Click on the "Support" tab in the top navigation menu.
+3. Click on the "Live Chat" button to initiate a chat session.
+4. Verify that a live chat agent is available to assist with the user's inquiry.
+5. Verify that the live chat agent can provide assistance with orders, product inquiries, and technical issues.
+6. Verify that the live chat agent can escalate the user's inquiry to a higher authority if necessary.
+
+Expected Result: The live chat support on Incarnage.com is available and functional, allowing users to receive assistance with their orders, product inquiries, or technical issues in a timely and efficient manner.
+
+TC\_003: Verify that the newsletter subscription functionality on Incarnage.com is available and functional.
+Description: Verify that users can subscribe to newsletters on Incarnage.com to receive updates on new product releases, promotions, and gaming events.
+Steps:
+
+1. Open Incarnage.com.
+2. Click on the "Support" tab in the top navigation menu.
+3. Click on the "Newsletter" button to subscribe to newsletters.
+4. Verify that the user can enter their email address and select the types of newsletters they want to receive.
+5. Verify that the user can confirm their subscription and receive an email confirmation.
+6. Verify that the user can unsubscribe from newsletters at any time.
+
+Expected Result: The newsletter subscription functionality on Incarnage.com is available and functional, allowing users to receive updates on new product releases, promotions, and gaming events via email.
+
+TC\_004: Verify that the product customization tools on Adidas.com/lk are available and functional.
+Description: Verify that users can use the advanced product customization tools on Adidas.com/lk to personalize their footwear and apparel with custom designs, colors, and graphics.
+Steps:
+
+1. Open Adidas.com/lk.
+2. Browse the product catalog and select a product that offers customization options.
+3. Click on the "Customize" button to access the customization tools.
+4. Verify that the user can select from a variety of customization options, including designs, colors, and graphics.
+5. Verify that the user can preview their customized product and make any necessary adjustments.
+6. Verify that the user can save their customized product and add it to their cart for purchase.
+
+Expected Result: The product customization tools on Adidas.
+ Here are some test cases based on the provided Business Requirements Document (BRD):
+
+1. Store Owner/Admin Functionalities
+
+a. Manage Accounts
+
+* Test Case ID: TC_001
+* Description: Verify that a store owner can create, edit, and delete user accounts.
+* Steps:
+	+ Log in as a store owner.
+	+ Navigate to the "Manage Accounts" page.
+	+ Click on the "Create Account" button.
+	+ Fill in the required fields (e.g., username, email, password) and click "Save."
+	+ Repeat steps 3 and 4 for editing and deleting accounts.
+* Expected Result: The system should allow the store owner to create, edit, and delete user accounts successfully.
+
+b. Manage Listings
+
+* Test Case ID: TC_002
+* Description: Verify that a store owner can create, edit, and delete product listings.
+* Steps:
+	+ Log in as a store owner.
+	+ Navigate to the "Manage Listings" page.
+	+ Click on the "Create Listing" button.
+	+ Fill in the required fields (e.g., product name, description, price, image) and click "Save."
+	+ Repeat steps 3 and 4 for editing and deleting listings.
+* Expected Result: The system should allow the store owner to create, edit, and delete product listings successfully.
+
+c. Manage Stocks
+
+* Test Case ID: TC_003
+* Description: Verify that a store owner can view, add, edit, and delete stock information.
+* Steps:
+	+ Log in as a store owner.
+	+ Navigate to the "Manage Stocks" page.
+	+ View the stock information for each product.
+	+ Click on the "Add Stock" button for a specific product.
+	+ Fill in the required fields (e.g., quantity, location) and click "Save."
+	+ Repeat steps 3 and 4 for editing and deleting stock information.
+* Expected Result: The system should allow the store owner to view, add, edit, and delete stock information successfully.
+
+d. Manage Articles
+
+* Test Case ID: TC_004
+* Description: Verify that a store owner can create, edit, and delete articles.
+* Steps:
+	+ Log in as a store owner.
+	+ Navigate to the "Manage Articles" page.
+	+ Click on the "Create Article" button.
+	+ Fill in the required fields (e.g., title, content, image) and click "Save."
+	+ Repeat steps 3 and 4 for editing and deleting articles.
+* Expected Result: The system should allow the store owner to create, edit, and delete articles successfully.
+
+e. Manage Orders
+
+* Test Case ID: TC_005
+* Description: Verify that a store owner can view, edit, and delete orders.
+* Steps:
+	+ Log in as a store owner.
+	+ Navigate to the "Manage Orders" page.
+	+ View the order information for each customer.
+	+ Click on the "Edit Order" button for a specific order.
+	+ Make changes to the order (e.g., update shipping address, change payment method) and click "Save."
+	+ Repeat steps 3 and 4 for deleting orders.
+* Expected Result: The system should allow the store owner to view, edit
+ Test Case ID: TC_001
+Description: Verify that the Style Guides section is accessible and functional.
+Steps:
+1. Navigate to the Style Guides section on the website.
+2. Verify that the section is visible and not hidden or obscured.
+3. Click on the "Curated Collections" link within the section.
+4. Verify that a list of curated collections is displayed, with each collection represented by a thumbnail image and title.
+5. Click on one of the collection thumbnails to view the collection details.
+6. Verify that the collection details page displays relevant information, such as the collection name, featured items, and styling tips.
+Expected Result: The Style Guides section should be accessible and functional, with a visible list of curated collections and collection details pages displaying relevant information.
+
+Test Case ID: TC_002
+Description: Verify that the Size Recommender is accessible and functional.
+Steps:
+1. Navigate to the Size Recommender section on the website.
+2. Verify that the section is visible and not hidden or obscured.
+3. Enter valid body measurements in the input fields provided.
+4. Click the "Get Size Recommendation" button.
+5. Verify that a size recommendation is displayed based on the entered measurements.
+6. Click the "View Size Chart" button to view the brand-specific size chart.
+7. Verify that the size chart is displayed and corresponds to the recommended size.
+Expected Result: The Size Recommender should be accessible and functional, with a visible input field for body measurements and a button to generate a size recommendation, as well as a link to view the brand-specific size chart.
+
+Test Case ID: TC_003
+Description: Verify that the Fashion Events Calendar is accessible and functional.
+Steps:
+1. Navigate to the Fashion Events Calendar section on the website.
+2. Verify that the section is visible and not hidden or obscured.
+3. Verify that the calendar is displayed with upcoming fashion events, including runway shows, trunk shows, sales events, and fashion weeks.
+4. Click on an event to view the event details.
+5. Verify that the event details page displays relevant information, such as the event name, date, location, and description.
+Expected Result: The Fashion Events Calendar should be accessible and functional, with a visible calendar displaying upcoming fashion events and event details pages displaying relevant information.
+
+Test Case ID: TC_004
+Description: Verify that the Fast Selling Products and New Arrivals section is accessible and functional.
+Steps:
+1. Navigate to the Fast Selling Products and New Arrivals section on the website.
+2. Verify that the section is visible and not hidden or obscured.
+3. Verify that a list of top-selling products and newly added items is displayed, with each item represented by a thumbnail image and title.
+4. Click on one of the item thumbnails to view the product details.
+5. Verify that the product details page displays relevant information, such as the product name, description, price, and images.
+Expected Result: The Fast Selling Products and New Arrivals section should be accessible and functional, with a visible list of top-selling products and newly added items and product details pages displaying relevant information.
+
+Test Case ID: TC_005
+Description: Verify that the agile development methodology is used for the project.
+Steps:
+1. Review the project documentation and development plan.
+2. Verify that the agile development methodology is explicitly stated as the project approach.
+3. Verify that the development plan includes
+ ### Instruction:
+You are an expert Quality Assurance Engineer.
+
+Your task is to analyze the following Business Requirements Document (BRD) and generate a comprehensive set of test cases.
+
+Think step-by-step:
+1. Identify the key functionalities from the BRD.
+2. For each functionality, think of:
+a. Positive test cases (valid inputs)
+b. Negative test cases (invalid inputs)
+c. Boundary value test cases (min/max/limit scenarios)
+d. Edge case test cases (unexpected or unusual scenarios)
+3. Format each test case as follows:
+a. Test Case ID: [e.g., TC\_001]
+b. Description: [What this test case is verifying]
+c. Steps: [Step-by-step actions]
+d. Expected Result: [What the system should do]
+
+### BRD:
+
+Rapid Response to Market Changes:
+
+Agile allows quick adaptation to shifts in demand, technology, and user preferences.
+
+Risk Mitigation:
+
+Iterative development identifies and addresses issues early, reducing project risks.
+
+Continuous Improvement:
+
+Agile fosters a culture of ongoing enhancement based on user feedback and market trends.
+
+Why agile for our system
+Agile methodology is well-suited for developing the website for Alphaura due to the dynamic nature of the fashion industry and the need for iterative development and continuous improvement. Here's a brief explanation of why Agile is the ideal approach:
+
+1. Flexibility and Adaptability: Agile allows for flexibility in responding to changing market trends, customer preferences, and business requirements. In the fast-paced fashion industry, where trends evolve rapidly, being able to adapt quickly is crucial to staying competitive.
+2. Iterative Development: Agile follows an iterative development approach, where the project is broken down into smaller, manageable increments called sprints. This allows for early and frequent delivery of working software, enabling stakeholders to provide feedback and make adjustments throughout the development process.
+3. Customer-Centric Focus: Agile places a strong emphasis on customer collaboration and feedback. By involving Alphaura's stakeholders, including store owners, fashion designers, and customers, in the development process, Agile ensures that the final product meets their needs and expectations.
+4. Continuous Improvement: Agile promotes a culture of continuous improvement, where teams reflect on their work at the end of each sprint and identify opportunities for enhancement. This iterative feedback loop enables the website to evolve iteratively, incorporating new features, optimizations, and refinements over time.
+5. Reduced Time to Market: Agile methodologies emphasize delivering value early and frequently. By prioritizing features based on their importance and feasibility, Agile allows Alphaura to launch a minimum viable product (MVP) quickly and iteratively add new features in subsequent iterations, reducing time to market and enabling faster ROI.
+6. Risk Mitigation: Agile mitigates project risks by breaking down the development process into smaller, manageable iterations. This allows teams to identify and address issues early, reducing the likelihood of costly delays or setbacks later in the project lifecycle.
+
+Overall, Agile methodology aligns well with the dynamic and customer-centric nature of the fashion industry, enabling Alphaura to develop a responsive, feature-rich website that meets the evolving needs of its stakeholders while maintaining a competitive edge in the market.
+
+Financial Feasibility
+
+The Financial Feasibility Report related to our website is shown in the following table. Below are the different types of
+ TC\_001: Verify that the web application is accessible from the Alphaura Fashion Store's website.
+
+Description: This test case verifies that the web application is accessible from the Alphaura Fashion Store's website.
+
+Steps:
+
+1. Open the Alphaura Fashion Store's website in a web browser.
+2. Click on the link to the web application.
+3. Verify that the web application loads without any errors.
+
+Expected Result: The web application should load without any errors, and the user should be able to interact with it.
+
+TC\_002: Verify that the web application is compatible with different web browsers.
+
+Description: This test case verifies that the web application is compatible with different web browsers.
+
+Steps:
+
+1. Open the Alphaura Fashion Store's website in a web browser.
+2. Click on the link to the web application.
+3. Verify that the web application loads without any errors in different web browsers such as Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+
+Expected Result: The web application should load without any errors in different web browsers, and the user should be able to interact with it.
+
+TC\_003: Verify that the web application is accessible from different devices.
+
+Description: This test case verifies that the web application is accessible from different devices such as desktop computers, laptops, tablets, and smartphones.
+
+Steps:
+
+1. Open the Alphaura Fashion Store's website on a desktop computer.
+2. Click on the link to the web application.
+3. Verify that the web application loads without any errors.
+4. Repeat steps 1-3 on a laptop, tablet, and smartphone.
+
+Expected Result: The web application should load without any errors on different devices, and the user should be able to interact with it.
+
+TC\_004: Verify that the web application is secure.
+
+Description: This test case verifies that the web application is secure.
+
+Steps:
+
+1. Open the Alphaura Fashion Store's website in a web browser.
+2. Click on the link to the web application.
+3. Verify that the web application uses HTTPS protocol for secure communication.
+4. Try to access the web application using an invalid username and password.
+5. Verify that the web application denies access with an error message.
+
+Expected Result: The web application should use HTTPS protocol for secure communication, and the user should not be able to access it with an invalid username and password.
+
+TC\_005: Verify that the web application is responsive.
+
+Description: This test case verifies that the web application is responsive.
+
+Steps:
+
+1. Open the Alphaura Fashion Store's website in a web browser.
+2. Click on the link to the web application.
+3. Verify that the web application loads without any errors.
+4. Resize the web browser window to different sizes.
+5. Verify that the web application adjusts its layout and content accordingly.
+
+Expected Result: The web application should be responsive and adjust its layout and content according to the size of the web browser window.
+
+TC\_006: Verify that the web application is optimized for performance.
+
+Description: This test case verifies that the web application is optimized for performance.
+
+Steps:
+
+1. Open the Alphaura Fashion Store's website in a web browser.
+2. Click on the link to the web application.
+3. Verify that the web application loads without any errors.
+4. Perform various actions
+ Test Case ID: TC_001
+Description: Verify user account creation with valid inputs.
+Steps:
+1. Open the Alphaura Fashion Accessories Web Application.
+2. Click on the "Sign Up" button.
+3. Enter a valid name, contact number, and email address.
+4. Click on the "Create Account" button.
+Expected Result: The user account is successfully created, and the user is redirected to the login page.
+
+Test Case ID: TC_002
+Description: Verify user account creation with invalid inputs.
+Steps:
+1. Open the Alphaura Fashion Accessories Web Application.
+2. Click on the "Sign Up" button.
+3. Enter an invalid name, contact number, or email address.
+4. Click on the "Create Account" button.
+Expected Result: An error message is displayed, and the user is not able to create the account.
+
+Test Case ID: TC_003
+Description: Verify profile management features for fashion designers.
+Steps:
+1. Log in as a fashion designer.
+2. Click on the "Profile" tab.
+3. Update the profile information (name, contact number, email address, etc.).
+4. Click on the "Save" button.
+Expected Result: The profile information is successfully updated, and the designer is redirected to the profile page.
+
+Test Case ID: TC_004
+Description: Verify stock level updates based on purchases.
+Steps:
+1. Log in as an admin.
+2. Add a product listing with a stock quantity.
+3. Purchase the product from the shopping cart.
+4. Verify that the stock quantity is updated automatically in the product listing.
+Expected Result: The stock quantity is updated automatically based on the purchase, and the product listing reflects the updated stock level.
+
+Test Case ID: TC_005
+Description: Verify blog management features for fashion designers.
+Steps:
+1. Log in as a fashion designer.
+2. Click on the "Blog" tab.
+3. Create a new blog post.
+4. Edit the blog post content.
+5. Delete the blog post.
+Expected Result: The fashion designer is able to create, edit, and delete blog posts as desired.
+
+Test Case ID: TC_006
+Description: Verify blog post feedback management.
+Steps:
+1. Log in as a customer.
+2. View a blog post.
+3. Leave feedback on the blog post.
+4. Verify that the feedback is visible to the fashion designer.
+Expected Result: The fashion designer is able to view and respond to feedback on their blog posts.
+
+Test Case ID: TC_007
+Description: Verify order management features.
+Steps:
+1. Log in as an admin.
+2. Create a new order.
+3. Accept the order.
+4. Delete the order.
+5. Update order details.
+Expected Result: The admin is able to manage orders, including accepting, deleting, and updating order details.
+
+Test Case ID: TC_008
+Description: Verify customer access to order history and tracking.
+Steps:
+1. Log in as a customer.
+2. View order history.
+3. Track the order status.
+Expected Result: The customer is able to access their order history and track the order status.
+
+Test Case ID: TC_009
+Description: Verify feedback management features.
+Steps:
+1. Log in as a customer.
+2. Purchase a product.
+3. Leave feedback on the product.
+Expected Result: The customer is able to leave feedback
+ Based on the provided Business Requirements Document (BRD), here is a comprehensive set of test cases for the Alphaura Web App Development project:
+
+1. Front-end Development
+1.1 Implement HTML Structure
+
+* Test Case ID: TC_001
+* Description: Verify that the HTML structure is implemented correctly.
+* Steps:
+	1. Open the web app in a browser.
+	2. Inspect the HTML code using browser developer tools.
+	3. Check if all HTML elements are present and correctly nested.
+	4. Verify that all attributes are correctly set.
+* Expected Result: The HTML structure should be implemented correctly, with all elements present and correctly nested, and all attributes correctly set.
+
+* Test Case ID: TC_002
+* Description: Verify that the HTML structure is accessible for users with disabilities.
+* Steps:
+	1. Open the web app in a browser.
+	2. Use keyboard navigation to navigate through the page.
+	3. Check if all elements are focusable and can be interacted with using the keyboard.
+	4. Verify that the page has proper ARIA attributes.
+* Expected Result: The HTML structure should be accessible for users with disabilities, with all elements focusable and interactable using the keyboard, and proper ARIA attributes.
+
+* Test Case ID: TC_003
+* Description: Verify that the HTML structure is responsive across different screen sizes.
+* Steps:
+	1. Open the web app in a browser.
+	2. Resize the browser window to different screen sizes.
+	3. Check if the layout and elements adapt to the new screen size.
+* Expected Result: The HTML structure should be responsive across different screen sizes, with the layout and elements adapting to the new screen size.
+
+1.2 Apply CSS Styling
+
+* Test Case ID: TC_004
+* Description: Verify that the CSS styles are applied correctly.
+* Steps:
+	1. Open the web app in a browser.
+	2. Inspect the CSS code using browser developer tools.
+	3. Check if all CSS rules are applied correctly to the HTML elements.
+	4. Verify that the styles are consistent throughout the page.
+* Expected Result: The CSS styles should be applied correctly, with all rules applied to the correct HTML elements and a consistent style throughout the page.
+
+* Test Case ID: TC_005
+* Description: Verify that the CSS styles are accessible for users with disabilities.
+* Steps:
+	1. Open the web app in a browser.
+	2. Use keyboard navigation to navigate through the page.
+	3. Check if all elements have proper color contrast and are easily distinguishable.
+	4. Verify that the page has proper ARIA attributes.
+* Expected Result: The CSS styles should be accessible for users with disabilities, with all elements having proper color contrast and being easily distinguishable, and proper ARIA attributes.
+
+* Test Case ID: TC_006
+* Description: Verify that the CSS styles are responsive across different screen sizes.
+* Steps:
+	1. Open the web app in a browser.
+	2. Resize the browser window to different screen sizes.
+	3. Check if the layout and elements adapt to the new screen size.
+* Expected Result: The CSS styles should be responsive across different screen sizes, with the layout and elements adapting to the new screen size.
+
+1.3 Integrate JavaScript Functionality
+
+* Test Case ID: TC_007
+* Description: Verify that JavaScript functions are integrated
